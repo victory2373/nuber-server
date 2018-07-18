@@ -1,0 +1,12 @@
+{
+  "name": "nuber-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/victory2373/nuber-server.git",
+  "author": "victory2373 <victory2373@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2"
+  }
+}
